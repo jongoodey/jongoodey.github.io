@@ -22,9 +22,6 @@ var calculator = {
 
 var screen = document.getElementById("screen");
 screen.innerText = calculator.sum;
-screen.addEventListener("change", function(){
-   // add call
-});
 
 var spans = document.getElementsByTagName('span');
 var start = true;
