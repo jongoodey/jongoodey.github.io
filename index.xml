@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Jon Goodey</title>
+      <link>https://jongoodey.com</link>
+      <description>Last 10 notes on Jon Goodey</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>How to Monetise Your Chrome Extension Using ExtPay.js (No Server Needed)</title>
+    <link>https://jongoodey.com/Chrome-Extension-Monetization</link>
+    <guid>https://jongoodey.com/Chrome-Extension-Monetization</guid>
+    <description><![CDATA[ A complete guide to monetizing Chrome extensions with ExtPay.js without needing a backend server ]]></description>
+    <pubDate>Fri, 25 Jul 2025 15:52:26 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
