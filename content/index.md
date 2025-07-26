@@ -8,7 +8,7 @@ Right, let's get straight to it. This is where I share what I do, how I do it, a
 
 ## What's This All About?
 
-I'm Jon, and I run Indexify Ltd. This site is my digital workspace where I showcase the kind of analysis and applications I build for clients. Think of it as a living portfolio, a demo ground, and a knowledge hub all rolled into one.
+I'm Jon, and I run [Indexify Ltd](https://indexify.co.uk). This site is my digital workspace where I showcase the kind of analysis and applications I build for clients. Think of it as a living portfolio, a demo ground, and a knowledge hub all rolled into one.
 
 ## What You'll Find Here
 
@@ -41,4 +41,4 @@ I believe in:
 
 If you're looking for someone who can dive deep into your marketing data, build custom analysis tools, or help you navigate the increasingly complex digital landscape, drop me a line [jon@indexify.co](mailto:jon@indexify.co).
 
-I'm always up for a chat about trail running or cooking too, mind you.
+*I'm always up for a chat about trail running or cooking too, mind you.*
